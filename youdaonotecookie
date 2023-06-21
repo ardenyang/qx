@@ -1,0 +1,4 @@
+# 有道云笔记cookie获取
+hostname = note.youdao.com
+
+^https:\/\/note.youdao.com\/yws\/mapi\/user\?method=checkin url script-request-body https://raw.githubusercontent.com/chavyleung/scripts/master/noteyoudao/noteyoudao.cookie.js
