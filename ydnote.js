@@ -1,9 +1,9 @@
 /*
 有道云笔记VIP功能
-https://note.youdao.com/yws/(mapi/payment|api/self)
-hostname: note.youdao.com
+[rewrite_local]
+^https:\/\/note\.youdao\.com\/yws\/(mapi\/payment|api\/self) url script-response-body https://raw.githubusercontent.com/ardenyang/qx/main/ydnote.js
+hostname = note.youdao.com
 */
-
 
   const path1 = "/api/self";
   const path2 = "/mapi/payment";
