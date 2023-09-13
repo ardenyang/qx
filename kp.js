@@ -3,7 +3,8 @@
 解锁部分会员功能，具体自测
 日期:2022.10.29
 [rewrite_local]
-^https?:\/\/api\.gotokeep\.com url script-response-body https://raw.githubusercontent.com/Crazy-Z7/Script/main/keep.js
+^https?:\/\/api\.gotokeep\.com url script-response-body https://raw.githubusercontent.com/ardenyang/qx/main/kp.js
+# https://raw.githubusercontent.com/Crazy-Z7/Script/main/keep.js
 hostname = api.gotokeep.com
 **********************************************/
 
