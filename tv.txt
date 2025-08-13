@@ -1,0 +1,15 @@
+{
+  "dtaId": 1755049749495,
+  "channels": [
+    "https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/ipv4/result.m3u",
+    "https://tv-1.iill.top/m3u/Gather"
+  ],
+  "dataValueProxy": "1",
+  "timeoutSwitchLine": "10",
+  "leftRightSelect": true,
+  "fontScale": "1",
+  "appFontFamily": "{\"id\":\"0\",\"font_name\":\"系统\",\"font_key\":\"system\",\"font_type\":\"ttf\"}",
+  "bingBg": true,
+  "autoUpdate": true,
+  "lightVersionCheck": true
+}
