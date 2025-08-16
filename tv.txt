@@ -1,8 +1,9 @@
 {
-  "dtaId": 1755050596078,
+  "dtaId": 1755304869268,
   "channels": [
-    "https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/ipv4/result.m3u",
+    "https://sub.ottiptv.cc/iptv.m3u",
     "https://tv-1.iill.top/m3u/Gather",
+    "https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/ipv4/result.m3u",
     "https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/result.m3u"
   ],
   "dataValueProxy": "1",
