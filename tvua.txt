@@ -1,0 +1,17 @@
+{
+  "dtaId": 1755854181270,
+  "channels": [
+    "https://sub.ottiptv.cc/iptv.m3u?ua=okHttp/Mod-1.1.0",
+    "https://tv-1.iill.top/m3u/Gather",
+    "https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/ipv4/result.m3u",
+    "https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/result.m3u"
+  ],
+  "dataValueProxy": "1",
+  "timeoutSwitchLine": "10",
+  "leftRightSelect": true,
+  "fontScale": "1",
+  "appFontFamily": "{\"id\":\"0\",\"font_name\":\"系统\",\"font_key\":\"system\",\"font_type\":\"ttf\"}",
+  "bingBg": true,
+  "autoUpdate": true,
+  "lightVersionCheck": true
+}
