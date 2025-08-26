@@ -1,8 +1,9 @@
 {
-  "dtaId": 1755854181270,
+  "dtaId": 1756214608777,
   "channels": [
     "https://sub.ottiptv.cc/iptv.m3u?ua=okHttp/Mod-1.1.0",
     "https://tv-1.iill.top/m3u/Gather",
+    "https://live.hacks.tools/tv/iptv4.txt",
     "https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/ipv4/result.m3u",
     "https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/result.m3u"
   ],
