@@ -1,10 +1,11 @@
 {
-  "dtaId": 1755854181270,
+  "dtaId": 1756511836368,
   "channels": [
-    "https://sub.ottiptv.cc/iptv.m3u?ua=okHttp/Mod-1.1.0",
-    "https://tv-1.iill.top/m3u/Gather",
-    "https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/ipv4/result.m3u",
-    "https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/result.m3u"
+    "https://sub.ottiptv.cc/iptv.m3u?tl=Mursor?ua=okHttp/Mod-1.2.0",
+    "https://tv-1.iill.top/m3u/Gather?tl=Yang1989",
+    "https://mygithub.ardenyang.ddns-ip.net/raw.githubusercontent.com/Guovin/iptv-api/gd/output/ipv4/result.m3u?tl=GuovinIPV4",
+    "https://live.hacks.tools/tv/iptv4.txt?tl=KilvnIPV4",
+    "https://mygithub.ardenyang.ddns-ip.net/raw.githubusercontent.com/Guovin/iptv-api/gd/output/result.m3u?tl=GuovinIPV6"
   ],
   "dataValueProxy": "1",
   "timeoutSwitchLine": "10",
