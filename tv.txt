@@ -1,7 +1,7 @@
 {
-  "dtaId": 1756888912039,
+  "dtaId": 1757369377454,
   "channels": [
-    "https://sub.ottiptv.cc/iptv.m3u?ua=okHttp/Mod-1.2.0.1",
+    "https://sub.ottiptv.cc/iptv.m3u?ua=okHttp/Mod-1.3.0.0",
     "https://tv-1.iill.top/m3u/Gather?tl=Yang1989",
     "https://live.hacks.tools/tv/iptv4.txt?tl=KilvnIPV4",
     "https://mygithub.ardenyang.ddns-ip.net/raw.githubusercontent.com/Guovin/iptv-api/gd/output/ipv4/result.m3u?tl=GuovinIPV4",
