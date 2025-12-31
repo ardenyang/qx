@@ -1,7 +1,7 @@
 {
-  "dtaId": 1758240231547,
+  "dtaId": 1767171216376,
   "channels": [
-    "https://live.ottiptv.cc/iptv.m3u?ua=okHttp/Mod-1.4.0.0&userid=1160291599&sign=c75a558ade31ae1d4abf862493b4b1ec1e66c3764a97fdf3702b9fc8a9ea74096e7545389d5626e5879a4547e49833dc6a9b59b30fe3e5a450f85f9a531894b48ce46c5f366515&auth_token=3e53c5020b34b8d4fae0b74fe8a94fb5",
+    "https://live.ottiptv.cc/iptv.m3u?ua=okHttp/Mod-1.5.0.0&userid=1160291599&sign=c75a558ade31ae1d4abf862493b4b1ec1e66c3764a97fdf3702b9fc8a9ea74096e7545389d5626e5879a4547e49833dc6a9b59b30fe3e5a450f85f9a531894b48ce46c5f366515&auth_token=3e53c5020b34b8d4fae0b74fe8a94fb5",
     "https://tv-1.iill.top/m3u/Gather?tl=Yang1989",
     "https://live.hacks.tools/tv/iptv4.txt?tl=KilvnIPV4",
     "https://mygithub.ardenyang.ddns-ip.net/raw.githubusercontent.com/Guovin/iptv-api/gd/output/ipv4/result.m3u?tl=GuovinIPV4",
