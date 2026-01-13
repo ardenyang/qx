@@ -1,6 +1,7 @@
 {
-  "dtaId": 1767171216378,
+  "dtaId": 1768294575408,
   "channels": [
+    "https://bc.188766.xyz/?ip=",
     "https://live.ottiptv.cc/iptv.m3u?ua=okHttp/Mod-1.5.0.0&userid=1160291599&sign=0e4749cbc7dabbea170136e434e53ad63085d95e24306a85b9ccd1c3219c3e05d7ffae2a02c027734b01e47c424804ffaae53bb795581b667387f99791e500bb2252757e02e137&auth_token=3e53c5020b34b8d4fae0b74fe8a94fb5",
     "https://tv-1.iill.top/m3u/Gather?tl=Yang1989",
     "https://live.hacks.tools/tv/iptv4.txt?tl=KilvnIPV4",
